@@ -1,0 +1,11 @@
+This is my Online examination system in asp.net c# with sql server database.
+
+followed some steps to use this project.
+
+
+1-first create database name "MyDatabase" and open SQL folder create tables.
+
+2-open responsive website folder and .sln file in visual studio.
+
+3-last thing change connection string in web.config file.
+
